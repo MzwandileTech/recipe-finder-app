@@ -1,14 +1,63 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Recipe Finder App
 
-Currently, two official plugins are available:
+A **web-based recipe finder application** built with **React.js** and **Tailwind CSS**. This app allows users to **search for recipes**, browse a variety of options, and view detailed **instructions and ingredients** for each dish.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+* 🔍 **Search Recipes:** Quickly find recipes by name or ingredient.
+* 📖 **Detailed Instructions:** Step-by-step cooking instructions for each recipe.
+* 🥗 **Ingredients List:** View all ingredients needed for a recipe.
+* 🎨 **Responsive Design:** Built with Tailwind CSS for a clean, mobile-friendly UI.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# recipe-finder" 
-"# recipe-finder-app" 
+## Tech Stack
+
+* **Frontend:** React.js
+* **Styling:** Tailwind CSS
+* **API:** Recipe data fetched from external recipe APIs (or placeholder/mock data)
+
+
+## Installation
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/your-username/recipe-finder.git
+   cd recipe-finder
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open in browser:
+
+   ```
+   http://localhost:5173
+   ```
+
+
+## Deployment
+
+The app deployed on **Vercel**.
+
+
+## Usage
+
+1. Enter a keyword in the search bar (e.g., “chicken”).
+2. Browse the list of recipes returned by the API.
+3. Click a recipe to view detailed instructions and ingredients.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+
