@@ -48,7 +48,7 @@ A **web-based recipe finder application** built with **React.js** and **Tailwind
 
 ## Deployment
 
-The app can be deployed to **Vercel**, **Netlify**, or any static hosting service that supports React.
+The app can be deployed to **Vercel**.
 
 ## Usage
 
@@ -61,8 +61,3 @@ The app can be deployed to **Vercel**, **Netlify**, or any static hosting servic
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 
----
-
-If you want, I can also **make a fancier version** with badges, screenshots, and a **live demo link section** so it looks professional on GitHub.
-
-Do you want me to do that?
